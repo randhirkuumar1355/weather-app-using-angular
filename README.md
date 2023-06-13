@@ -76,3 +76,7 @@ constructor(private weatherService: WeatherService) { }
 8. Handle the weather data: In the subscribe method, you can handle the received weather data according to your application's requirements. Update your component's properties or render the data in the template as needed.
 
 Remember to import the necessary modules in your app module or respective feature modules, such as HttpClientModule from @angular/common/http.
+
+### Project Screenshots:
+### Home Page
+![WeatherAppScreenshot](https://github.com/randhirk413/weather-app-using-angular/assets/114358610/49bbb24f-4a87-42b6-95c8-ad61e4c994e6)
