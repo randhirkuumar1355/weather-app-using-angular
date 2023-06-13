@@ -80,3 +80,4 @@ Remember to import the necessary modules in your app module or respective featur
 ### Project Screenshots:
 ### Home Page
 ![WeatherAppScreenshot](https://github.com/randhirk413/weather-app-using-angular/assets/114358610/49bbb24f-4a87-42b6-95c8-ad61e4c994e6)
+![WeatherAppScreenshot1](https://github.com/randhirk413/weather-app-using-angular/assets/114358610/aff62986-f16f-4501-86c0-253cc92d4d3c)
